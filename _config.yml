@@ -24,7 +24,7 @@ author:
   avatar           : "1.jpg"
   name             : "Long Dinh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # 
   location         : "Hanoi, Vietnam"
   employer         : # URL
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : longdinh007
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
