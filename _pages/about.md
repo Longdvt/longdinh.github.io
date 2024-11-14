@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research is focused on the intersection of deep learning and robotics. I am particularly interested in developing methods for learning and planning in partially observable environments. I received my B.S in Mechatronics (talented program) from Hanoi University of Science and Technology (Vietnam) in 2022, advised by [Prof. Thanh-Hung Nguyen](https://sites.google.com/view/thanhhungnguyen).
+My research is focused on the intersection of deep learning and robotics. I am particularly interested in developing methods for learning and planning in robot manipulation. I received my B.S in Mechatronics (talented program) from Hanoi University of Science and Technology (Vietnam) in 2022, advised by [Prof. Thanh-Hung Nguyen](https://sites.google.com/view/thanhhungnguyen).
 
 Recent News
 ======
